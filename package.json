@@ -1,0 +1,25 @@
+{
+  "name": "chetana-medicals",
+  "version": "1.0.0",
+  "description": "A simple web application for managing a Medical Store",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akash-S-S/chetana-medicals.git"
+  },
+  "keywords": [
+    "medical",
+    "store",
+    "management",
+    "web",
+    "application"
+  ],
+  "author": "Akash S.S",
+  "license": "MIT"
+}
